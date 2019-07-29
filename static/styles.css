@@ -1,0 +1,129 @@
+ body,{
+    font-family: sans-serif;
+    background-color: #ffffff;
+
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: #00ace6
+}
+
+h1,
+h2 {
+    font-family: 'Calibri', sans-serif;
+	color: #2F4F4F;
+    margin: 0;
+}
+
+h1 {
+    border-bottom: 2px solid #eee;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+p,
+dd,
+dt {
+    color: #2f4f4f;
+}
+
+a {
+	text-decoration: none;
+    color: 	#609f9f;
+	font-size: .75em;
+}
+
+.pane {
+    position: relative;
+    border: 2px solid;
+    border-radius: 25px;
+    padding: 5px;
+	width: 600px;
+    margin: 0 auto;
+    border-color: #999999;
+    background-color: #ffffff
+}
+
+.header {
+    left: 50%;
+    text-align: center;
+	padding-bottom:8px;
+}
+
+.create {
+    display: inline-block;
+    float: right;
+	
+}
+.courses {
+	padding-top:16px;
+	font-size:1.2em;
+}
+.name {
+    width: 80%;
+    display: inline-block;
+    float: left;
+
+}
+.nameAndPrice{
+	border-top: 1px solid #eee;
+	margin-top:8px;
+}
+
+.description {
+	font-size: 0.9em;
+}
+
+.price {
+    text-align: right;
+    width: 20%;
+    float: right;
+}
+
+.editdeletehome {
+    text-align: right;
+    width: 20%;
+    float: right;
+}
+
+.editdeletepane {
+	text-decoration: none;
+    color: 	#609f9f;
+
+	
+}
+.restaurantAndLinks{
+	border-top: 1px solid #eee;
+	margin-top:18px;
+}
+.restaurant {
+	width: 80%;
+	text-align:center-left;
+	font-family: 'Georgia', sans-serif;
+	font-size: 1.1em;
+	color: 	#2F4F4F;
+}
+.form {
+
+  display: flex;
+  align-items: center;
+  justify-content: center  }
+}
+
+.createcancel {
+	left: 50%;
+    text-align: center;
+	padding-bottom:8px;
+}
+
+.flash {
+    background:#eee;
+	font-family: 'Calibri', sans-serif;
+	color: #2F4F4F;
+	
+}
