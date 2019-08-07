@@ -5,3 +5,4 @@ This project utilizes the Flask framework to create a restaurant web application
 You can see the website running on AWS (Elastic beanstalk with an RDS database) here:
 http://flask-env.e3umaanyt3.us-east-1.elasticbeanstalk.com
 
+Feel free to play around with it creating, editing restaurants and menus etc.
